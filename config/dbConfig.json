@@ -1,0 +1,7 @@
+{
+"host": "localhost",
+"user": "root",
+"password": "password",
+"multipleStatements": true,
+"dateStrings": "date"
+}
